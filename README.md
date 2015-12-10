@@ -6,7 +6,8 @@ Ich erkläre euch nun die wichtigsten Funktionen dieser App. Entwickelt von /w d
 Installation: /apps install knuddelsDEV.30563050.Channelhelp
 
 
-/mcmpost  > Als MCM kann man nun mit /mcmpost TEXT jeden MCM eine Nachricht schicken! //i.e /mcmpost Dies ist eine Testmail.
+/setreadme  > Hiermit kann User sein Readme für den Channel setzen
+/botsay TEXT > MCM's können mit /botsay TEXT über den Bot schreiben
 
 
 
